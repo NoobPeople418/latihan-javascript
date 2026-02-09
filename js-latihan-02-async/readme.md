@@ -7,3 +7,6 @@ Nama: Syafiq Nuhaa NM.
 - Async
 - Promise
 - integrasi api dengan json Placeholder
+
+note:
+- percobaan dengan pokemonAPI
